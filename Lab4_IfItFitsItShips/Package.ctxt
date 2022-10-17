@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Package
+comment1.params=a\ b\ c\ w
+comment1.target=Package(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getLength()
+comment3.params=
+comment3.target=int\ getWeight()
+comment4.params=
+comment4.target=int\ getGirth()
+numComments=5

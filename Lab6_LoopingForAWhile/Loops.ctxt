@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Loops
+comment1.params=choice
+comment1.target=Loops(int)
+comment2.params=
+comment2.target=int\ getType()
+comment3.params=
+comment3.target=void\ play()
+comment4.params=
+comment4.target=void\ GPA()
+comment5.params=
+comment5.target=void\ prime()
+comment6.params=
+comment6.target=void\ average()
+comment7.params=
+comment7.target=void\ LCM()
+comment8.params=
+comment8.target=void\ reverse()
+numComments=9

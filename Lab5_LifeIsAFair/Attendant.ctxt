@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Attendant
+comment1.params=option
+comment1.target=Attendant(int)
+comment2.params=
+comment2.target=void\ playGame()
+numComments=3

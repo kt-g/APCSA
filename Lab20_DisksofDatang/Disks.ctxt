@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Disks
+comment1.params=
+comment1.target=Disks()
+comment2.params=numDisks\ from\ to\ extra
+comment2.target=void\ datang(int,\ char,\ char,\ char)
+comment3.params=str
+comment3.target=boolean\ isPalindrome(java.lang.String)
+comment4.params=str
+comment4.target=boolean\ isAlphabetical(java.lang.String)
+numComments=5

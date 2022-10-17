@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Life
+comment1.params=
+comment1.target=Life()
+comment2.params=
+comment2.target=void\ print()
+comment3.params=
+comment3.target=void\ generation()
+comment4.params=row\ col
+comment4.target=int\ neighbours(int,\ int)
+numComments=5

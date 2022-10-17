@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=n1\ n2
+comment1.target=Calculator(double,\ double)
+comment2.params=
+comment2.target=void\ add()
+comment3.params=
+comment3.target=void\ subtract()
+comment4.params=
+comment4.target=void\ multiply()
+comment5.params=
+comment5.target=void\ divide()
+comment6.params=
+comment6.target=void\ mod()
+comment7.params=
+comment7.target=void\ compare()
+comment8.params=
+comment8.target=void\ square()
+numComments=9

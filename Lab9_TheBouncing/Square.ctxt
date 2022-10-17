@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Square
+comment1.params=
+comment1.target=Square()
+comment2.params=page
+comment2.target=void\ draw(java.awt.Graphics)
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ bounceX()
+comment5.params=
+comment5.target=void\ bounceY()
+numComments=6

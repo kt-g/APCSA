@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Games
+comment1.params=choice
+comment1.target=Games(int)
+comment2.params=
+comment2.target=int\ getType()
+comment3.params=
+comment3.target=void\ play()
+comment4.params=
+comment4.target=void\ RPS()
+comment5.params=
+comment5.target=void\ Roulette()
+comment6.params=
+comment6.target=void\ CoinFlip()
+numComments=7
